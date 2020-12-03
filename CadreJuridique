@@ -1,0 +1,69 @@
+# Le cadre juridique
+
+La cybersécurité peut être conçue, d’un point de vue juridique, comme la sécurité juridique dans le **cyberespace**. Elle désigne ainsi l’ensemble des règles qui protègent les biens et les personnes (incluant les organisations et les États) contre les atteintes qui peuvent leur être portées au moyen des technologies. La notion de cybersécurité est donc vaste et ne se limite pas aux seuls mécanismes de sécurité des systèmes d’information.
+
+## Quelques exemples de délit
+
+### Le hacking ou le piratage
+
+Le terme **piratage** désigne l’utilisation de connaissances informatiques à des fins illégales.
+
+L’[article 323-1](http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006418316&cidTexte=LEGITEXT000006070719) du code pénal sanctionne «le fait d’accéder ou de se maintenir frauduleusement, dans tout ou partie d’un système de traitement automatisé». 
+
+→ 2 ans d’emprisonnement et 30000€ d’amende.
+→ 3 ans d’emprisonnement et 45000€ d’amende lorsqu’il en résulte «soit la suppression, soit la modifications de données contenues dans le système, soit un altération du fonctionnement de ce système».
+
+→ Confiscation du matériel informatique qui a servi ou était destiné à commettre l’infraction.
+
+→ Verser des dommages-intérêts à la victime pour l’indemniser.
+
+### Le spoofing
+
+Le «**spoofing**» s’apparente au «**hacking**». Il désigne le fait d’intervenir dans les communications entre une ou plusieurs machines dans le but de se substituer frauduleusement à une ou plusieurs des machines. Cela permet d’intercepter des données, des correspondances, ou encore d’envoyer des données en usurpant l’identité du titulaire de la machine «spoofée».
+
+→ 2 ans d’emprisonnement et 30000€ d’amende.
+
+### Le carding et le skimming  
+
+Le «**carding**» désigne la création de cartes virtuelles. C’est une **fraude à la carte bleue**.
+
+Le «**skimming**», quant à lui, désigne une opération frauduleuse qui consiste à faire des copies magnétiques des cartes bancaires à l’aide d’un lecteur mémoire appelé «**skimmer**». 
+
+L’**article L163-4** du Code monétaire et financier 
+→ 7 ans d’emprisonnement et de 750000€ d’amende, «le fait de contrefaire ou de falsifier une carte de paiement ou de retrait, de faire ou de tenter de faire usage, en connaissance de cause, d’une carte de paiement ou de retrait contrefaisante ou falsifiée, d’accepter, en connaissance de cause, de recevoir un paiement au moyen d’une carte de paiement contrefaisante ou falsifiée».
+
+### Le scamming
+
+Le «**scamming**» désigne toutes les arnaques faites par le biais d’Internet. Les arnaques sont multiples mais elles ont toutes pour but d’obtenir de la victime qu’elle effectue un virement depuis son compte bancaire.
+
+→ 5 ans d’emprisonnement et de 375000€ d’amende
+
+### Le spamming
+
+Le «**spamming**» désigne l’envoi de courriers électroniques non sollicités.
+
+-   Entrave, ou au fait de fausser le fonctionnement d’un système de traitement automatisé de données par déni de service, si l’envoi massif de courriers électroniques a eu pour effet de paralyser le serveur mail de la victime.
+
+-   Prospections directes au moyen d’un courrier électronique utilisant les coordonnées d’une personne physique qui n’a pas donné son consentement préalable à recevoir des prospections directes par ce moyen; ce qui est sanctionné par le code de la consommation.
+
+### La cryptologie
+
+La **cryptologie** désigne la technique qui consiste à crypter un message afin de le rendre inintelligible à celui qui ne possède pas la clé de décodage. En France, l’usage de la cryptologie est libre depuis la loi pour la confiance dans l’économie numérique du 21 juin 2004.
+
+→ Article 132-79 du code pénal «lorsqu’un moyen de cryptologie a été utilisé pour préparer ou commettre un crime ou un délit, ou pour en faciliter la préparation ou la commission».
+
+## es
+→ L’[article L335-3-1](http://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=C90B03AD1C47F7D938A2B6FE9CAA20CF.tpdjo05v_2?idArticle=LEGIARTI000006279236&cidTexte=LEGITEXT000006069414&dateTexte=20140209) du code de la propriété intellectuelle punit de 3 750€ d’amende les modifications non autorisées des logiciels mais également «le fait de porter atteinte sciemment, à des fins autres que la recherche, à une mesure technique afin d’altérer la protection d’une œuvre par un décodage, un décryptage, ou toute autre intervention personnelle destinée à contourner, neutraliser ou supprimer un mécanisme de protection ou de contrôle».
+
+## d
+L’[article 227-23 du code pénal](http://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070719&idArticle=LEGIARTI000006418087&dateTexte=&categorieLien=cid) sanctionne de cinq ans d’emprisonnement et de 75000€ d’amende «le fait, en vue de sa diffusion, de fixer, d’enregistrer ou de transmettre l’image ou la représentation d’un mineur lorsque cette image présente un caractère pornographique».
+
+## Articles
+l’article 225-7 du code pénal dispose que «le proxénétisme est puni de 10 ans d’emprisonnement et de 1500 000€ d’amende lorsqu’il est commis grâce à l’utilisation, pour la diffusion de message à destination d’un public non déterminé, d’un réseau de télécommunication».
+
+## Loi HADOPI
+La Haute Autorité pour la Diffusion des Œuvres et la Protection des droits sur Internet (HADOPI) est donc chargée de mettre en œuvre la loi contre le téléchargement illégal via un dispositif de riposte graduée.
+
+→ Le texte prévoit en effet une amende de 1500€, doublée en cas de récidive. 
+
+→ Amende allant jusqu’à 300000€ et une peine de trois années de prison.
