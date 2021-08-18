@@ -11,6 +11,8 @@ Les vulnérabilités sont découvert puis assignés et publié par des organisat
 
 Les partenaires publie les enregistrements CVE afin de communiquer de pertinente descriptions des vulnérabilités.
 Les professionnels de l'information technologique et de la cybersécurité utilisent les enregistrement CVE pour s'assurer qu'ils discutent du même problème et pour coordonner leurs efforts pour hiérarchiser et traiter les vulnérabilités.
+
+Source: https://cve.mitre.org/index.html
  
 
 ## Exemple: HiveNightmare - CVE-2021-36934
